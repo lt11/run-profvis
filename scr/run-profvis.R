@@ -2,7 +2,7 @@
 
 ### A script that runs an R script (provided as first argument) and
 ### performs its profiling. The output (*.Rprofvis) is written in 
-### the same folder of the script.
+### the same folder of the script being profiled.
 
 library(this.path)
 library(scriptName)
